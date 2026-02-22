@@ -5,3 +5,5 @@ xlrd
 matplotlib
 statsmodels
 pmdarima
+tensorflow
+optuna
